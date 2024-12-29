@@ -1,0 +1,3 @@
+/workspaces/vscode-docs/build/CMakeFiles/rebuild_cache.dir
+/workspaces/vscode-docs/build/CMakeFiles/vstest.dir
+/workspaces/vscode-docs/build/CMakeFiles/edit_cache.dir

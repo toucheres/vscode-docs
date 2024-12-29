@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/vstest.dir/main.cpp.o  -o vstest 
